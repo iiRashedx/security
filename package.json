@@ -1,0 +1,13 @@
+{
+  "name": "cj-family",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "cjfamily.js",
+  "scripts": {
+  "start": "node cjfamily.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
