@@ -2,9 +2,9 @@
   "name": "cj-family",
   "description": "Test",
   "version": "0.0.0",
-  "main": "cjfamily.js",
+  "main": "sec.js",
   "scripts": {
-  "start": "node cjfamily.js"
+  "start": "node sec.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
