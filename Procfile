@@ -1,1 +1,1 @@
-worker: node cjfamily.js
+worker: node sec.js
